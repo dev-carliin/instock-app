@@ -7,9 +7,9 @@
 - registrar e acompanhar as vendas realizadas diariamente.
 - registra despesas e gastos.
 
-<img width="1280" alt="Painel de gerenciamento de vendas" src="https://github.com/dha-stix/instock-app/assets/67129211/4f963dcd-f81d-4c88-8c9d-3ac05b132ffa">
+<img width="1280" alt="Painel de gerenciamento de vendas" src="https://raw.githubusercontent.com/dev-carliin/instock-app/refs/heads/main/public/inStock.jpg">
 
-## Tools
+## Tecnologias
 - [NextJS 13](https://nextjs.org/docs)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Firebase](https://firebase.google.com)
