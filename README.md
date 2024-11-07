@@ -1,5 +1,9 @@
 #  Aplicativo de gerenciamento de vendas e despesas com Next.js e Firebase
 
+## [inStock](https://instock-app-psi.vercel.app)
+- Email= admin@test.com
+- Senha= admin123
+
 ###  O aplicativo faz o seguinte: 
 - autentica usuários via Email e Senha com Firebase,
 - permite que um usuário (caixa ou dono de loja) crie diversas categorias para os produtos,
