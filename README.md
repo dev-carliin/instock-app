@@ -1,6 +1,6 @@
 #  Aplicativo de gerenciamento de vendas e despesas com Next.js e Firebase
 
-## [inStock](https://instock-app-psi.vercel.app)
+## [inStock](https://instock-app-psi.vercel.app) 👈🔗💻
 - Email= admin@test.com
 - Senha= admin123
 
